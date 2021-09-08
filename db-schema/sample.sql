@@ -1,5 +1,5 @@
 CREATE SCHEMA hr;
-USE SCHEMA hr;
+USE  hr;
 
 CREATE TABLE employees (
     emp_no      INT             NOT NULL,
